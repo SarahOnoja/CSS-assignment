@@ -1,0 +1,29 @@
+footer{
+    color: white;
+}
+#services{
+    text-align: center;
+    margin-top: 10px;
+}
+#services li{
+    margin: 0px;
+    padding: 0px;
+    list-style-type: none;
+    /*QUESTION: HOW DO I REDUCE THE SPACE BETWEEN THE
+    LIST AND LIST-STYLE-TYPE*/
+}
+.footer{
+    position: relative;
+    margin-top: 20%;
+    border-style: solid;
+    border-width: 1px;
+    text-align: center;
+}
+.italizedFont{
+    font-style: italic;
+    color: white;
+    font-size: larger;
+}
+header{
+    text-align: center;
+}
